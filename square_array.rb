@@ -1,4 +1,4 @@
-array = [1, 2, 3]
+require_relative ./spec/spec_helper.rb 
 
 def square_array(array)
   array.each do |number|
